@@ -1,5 +1,5 @@
 ## Ohayou! , おはようございます! , こんにちは! , こんばんは!
-## <img src="https://github.com/lynnnnzx/LynnnnZx/blob/master/miku.gif" width="500px">
+## <img src="https://github.com/lynnnnzx/LynnnnZx/blob/master/miku.gif" width="450px">
 ## I'm Lynx, Welcome to my GitHub Profile! 
 
 ## My Github Profile Overview :
