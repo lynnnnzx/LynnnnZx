@@ -1,4 +1,4 @@
-## Ohayou! <img src="https://github.com/lynnnnzx/LynnnnZx/blob/fc578efdbbf1cf59306e8055bb0eebf07c4e1332/lob.gif" width="30px"> , おはようございます! , こんにちは! , こんばんは!
+## Ohayou! <img src="https://github.com/lynnnnzx/LynnnnZx/raw/master/wave.gif" width="30px"> , おはようございます! , こんにちは! , こんばんは!
 # I'm Lynx, Welcome to my GitHub Profile! 
 # <img src="https://github.com/lynnnnzx/LynnnnZx/blob/master/miku.gif" width="450px">
 
