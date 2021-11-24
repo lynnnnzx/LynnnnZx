@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Script to setup an android build environment on Arch Linux and derivative distributions
+# Script to setup an android build environment on Arch Linux
 
 clear
 # Uncomment the multilib repo, incase it was commented out
@@ -25,5 +25,5 @@ sudo pacman -S android-tools android-udev
 echo "Installing Git,repo,and ccache!"
 sudo pacman -S git repo ccache
 
-echo "All Done :'D"
+echo "All Done :D"
 echo "Don't forget to run these commands before building, or make sure the python in your PATH is python2 and not python3"
