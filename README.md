@@ -2,5 +2,6 @@
 # I'm Lynx, Welcome to my GitHub Profile! 
 
 ## My Github Profile Overview :
-![Lynx's github stats](https://github-readme-stats.vercel.app/api?username=lynnnnzx&show_icons=true)
+![Lynx's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynnnnzx&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry&border_color=000000)
 
+![](https://komarev.com/ghpvc/?username=lynnnnzx)
