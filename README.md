@@ -5,8 +5,3 @@
 ![](https://komarev.com/ghpvc/?username=lynnnnzx)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynnnnzx&count_private=true&show_icons=true&include_all_commits=true&theme=swift&border_radius=30&layout=compact)
-
-#### Buat Nganu
-[![Ngentd](https://github-readme-stats.vercel.app/api/pin/?username=lynnnnzx&repo=device_xiaomi_juice&hide_border&theme=buefy&border_radius=30)](https://github.com/lynnnnzx/device_xiaomi_juice)
-[![Ngentd](https://github-readme-stats.vercel.app/api/pin/?username=lynnnnzx&repo=vendor_xiaomi_juice&hide_border&theme=buefy&border_radius=30)](https://github.com/lynnnnzx/vendor_xiaomi_juice)
-
