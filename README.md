@@ -1,4 +1,4 @@
-## Ohayou! <img src="https://github.com/lynnnnzx/LynnnnZx/raw/anu/wave.gif" width="30px"> , おはようございます! , こんにちは! , こんばんは!
+## Ohayou! , おはようございます! , こんにちは! , こんばんは!
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/lynnnnzx?style=plastic&logo=github&logoColor=black"> ![](https://komarev.com/ghpvc/?username=lynnnnzx)
 
